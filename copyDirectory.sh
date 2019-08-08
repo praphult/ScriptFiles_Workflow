@@ -1,0 +1,3 @@
+
+
+pwd | xclip -selection clipboard 
